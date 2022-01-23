@@ -1,0 +1,13 @@
+.wrapper {
+  max-width: 1200px;
+  padding: 0 16px;
+  margin: auto;
+}
+
+.navbar {
+  padding: 20px;
+}
+
+.center {
+  text-align: center;
+}
